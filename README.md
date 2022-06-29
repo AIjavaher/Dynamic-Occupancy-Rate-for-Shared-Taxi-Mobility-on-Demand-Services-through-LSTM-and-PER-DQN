@@ -27,9 +27,9 @@ About 22 million yellow taxi records in Manhattan during the three months of Jul
 ### <a name="PER-DQN"></a>Prioritized Experience Replay - Deep Q Network (PER-DQN)
 The dispatch system assigns passengers to the shared taxis. The taxis should plan to drive to the passengers' origins, pick them up and drop them off at their destinations. Taxis use PER-DQN to plan the route in the shortest path.
 
--The agent taxi learned in grided environment.
--The agent chooses actions in 8 directions.
-![My Image](LSTM/actions.png)
+- The agent taxi learned in grided environment.
+- The agent chooses actions in 8 directions.
+![My Image](PER-DQN/actions.png)
 
 
 
